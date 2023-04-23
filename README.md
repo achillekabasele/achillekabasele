@@ -1,4 +1,4 @@
-<img align="center"  height="300" src="https://github.com/achillekabasele/achillekabasele/blob/main/cover.jpg">
+<img align="center"  height="300" width="1000" src="https://github.com/achillekabasele/achillekabasele/blob/main/cover.jpg">
 <h1 align="center">Hi 👋, I'm Achille Kabasele</h1>
 <h3 align="center">A passionate developer</h3>
 
